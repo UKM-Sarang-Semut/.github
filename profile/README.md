@@ -1,5 +1,5 @@
 # UKM Sarang Semut
-UKM Sarang Semut is a organization from Universitas Tanjungpura located in Pontianak, West Borneo. UKM Sarang Semut have several divisions, which is:
+UKM Sarang Semut is an organization from Universitas Tanjungpura located in Pontianak, West Borneo. UKM Sarang Semut have several divisions, which is:
 1. Theatre
 2. Music
 3. Traditional Dance
